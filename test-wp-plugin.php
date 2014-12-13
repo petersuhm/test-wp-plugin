@@ -3,5 +3,5 @@
 /**
  * Plugin Name: Test WP Plugin
  * Author: WP Pusher
- * Version: 1.0
+ * Version: 1.1
  */
